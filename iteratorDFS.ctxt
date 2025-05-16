@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=iteratorDFS
+comment1.params=i
+comment1.target=boolean\ indexIsValid(int)
+comment2.params=startIndex
+comment2.target=java.util.Iterator\ iteratorDFS(int)
+numComments=3

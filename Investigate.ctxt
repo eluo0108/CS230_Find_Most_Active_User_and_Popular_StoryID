@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Investigate
+comment1.params=RATgraph
+comment1.target=Investigate(java.lang.String)
+comment1.text=\n\ Constructor\n\ look\ @\ first\ character\ to\ see\ if\ it\ is\ story\ or\ user\n\ read\ RATgraph.csv\n\ produce\ adjlistsgraph\ object\ from\ csv\ using\ methods\ from\ adjlistsgraph\ (displayFile)\n
+comment2.params=
+comment2.target=java.lang.String\ findMostActiveUser()
+comment2.text=\n\ The\ length\ of\ a\ linked\ list\ that\ contains\ the\ MOST\ edges\ coming\ out\ of\ \n\ a\ node\ "a"\ which\ represents\ a\ userID\ \n
+comment3.params=
+comment3.target=java.lang.String\ findMostActiveStory()
+comment3.text=\n\ The\ length\ of\ a\ linked\ list\ that\ contains\ the\ MOST\ edges\ coming\ out\ of\n\ a\ node\ "a"\ which\ represents\ a\ storyID\n\n\ (Key\ (storyID),\ value\ (numOccurences))\n\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
